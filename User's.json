@@ -91,6 +91,27 @@
         "Allowoffline": false
     },
     {
+        "device_id": "4892db958cc08cb6",
+        "username": "Avdesh",
+        "password": "12345",
+        "expirydate": "13-05-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
