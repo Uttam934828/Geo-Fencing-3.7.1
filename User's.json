@@ -16,7 +16,7 @@
     {
         "device_id": "7be4be62d834d0e3",
         "username": "Vijay",
-        "password": "12345",
+        "password": "145",
         "expirydate": "30-04-2026",
         "Allowoffline": false
     },
@@ -30,42 +30,42 @@
     {
         "device_id": "386c18715abef659",
         "username": "ju1",
-        "password": "12345",
+        "password": "145",
         "expirydate": "10-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "d7c433ff8492a9b3",
         "username": "Sir",
-        "password": "12345",
+        "password": "145",
         "expirydate": "10-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "a71c2d831ba60745",
         "username": "Muu",
-        "password": "145",
+        "password": "125",
         "expirydate": "10-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "c300c3ca8fb796ad",
-        "username": "D114",
-        "password": "123",
+        "username": "D12314",
+        "password": "1",
         "expirydate": "17-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "bf0d62d100d6e320",
         "username": "Kamraj",
-        "password": "145",
+        "password": "125",
         "expirydate": "31-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "ab559e7794df47fc",
         "username": "Bikash",
-        "password": "14",
+        "password": "12",
         "expirydate": "10-05-2026",
         "Allowoffline": false
     },
@@ -93,28 +93,28 @@
     {
         "device_id": "4892db958cc08cb6",
         "username": "Avdesh",
-        "password": "145",
+        "password": "15",
         "expirydate": "06-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "9f1765a6b7e51b36",
         "username": "Monu",
-        "password": "145",
+        "password": "125",
         "expirydate": "06-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "258e608a0c602661",
         "username": "Uttam",
-        "password": "123",
+        "password": "13",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "c300c3ca8fb796ad",
         "username": "User12",
-        "password": "145",
+        "password": "15",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
@@ -135,14 +135,14 @@
     {
         "device_id": "a71c2d831ba60745",
         "username": "Muku",
-        "password": "12345",
+        "password": "145",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "e72add3a6ed8a041",
         "username": "Tapan",
-        "password": "12345",
+        "password": "125",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
@@ -156,14 +156,14 @@
     {
         "device_id": "80856da7d1492f81",
         "username": "Anand",
-        "password": "145",
+        "password": "125",
         "expirydate": "18-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "2727be3064a1e738",
         "username": "Kamal",
-        "password": "145",
+        "password": "125",
         "expirydate": "01-05-2026",
         "Allowoffline": false
     },
@@ -193,173 +193,6 @@
         "username": "user2",
         "password": "pass456",
         "expirydate": "15-06-2026",
-        "Allowoffline": false
-    }
-]",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "39847989b1843876",
-        "username": "Ajay",
-        "password": "12345",
-        "expirydate": "15-05-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
