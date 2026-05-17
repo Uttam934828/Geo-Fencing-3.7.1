@@ -243,5 +243,12 @@
         "password": "12345",
         "expirydate": "12-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ac936333cf361a2e",
+        "username": "Phool",
+        "password": "12345",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
