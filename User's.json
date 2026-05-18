@@ -248,6 +248,13 @@
         "device_id": "ac936333cf361a2e",
         "username": "Phool",
         "password": "12345",
+        "expirydate": "16-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "bcf45916f47434f5",
+        "username": "Kuldeep",
+        "password": "12345",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     }
