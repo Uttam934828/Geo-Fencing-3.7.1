@@ -271,5 +271,12 @@
         "password": "12345",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2dbbc6befcb0052a",
+        "username": "Rupendr",
+        "password": "12345",
+        "expirydate": "22-06-2026",
+        "Allowoffline": false
     }
 ]
