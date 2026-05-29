@@ -310,7 +310,7 @@
     {
         "device_id": "ce47bee7ff94ec3e",
         "username": "Saloda",
-        "password": "123",
+        "password": "001",
         "expirydate": "28-06-2026",
         "Allowoffline": false
     },
@@ -318,20 +318,20 @@
         "device_id": "9b010af3dcb85e03",
         "username": "Hajrat",
         "password": "123",
-        "expirydate": "28-06-2026",
+        "expirydate": "10-06-2026",
         "Allowoffline": false
     },
     {
         "device_id": "e1348c1acff7747f",
         "username": "Avdhesh",
-        "password": "123",
+        "password": "001",
         "expirydate": "28-06-2026",
         "Allowoffline": false
     },
     {
         "device_id": "72f25ff34ec4cd67",
         "username": "Monu",
-        "password": "123",
+        "password": "001",
         "expirydate": "28-06-2026",
         "Allowoffline": false
     },
