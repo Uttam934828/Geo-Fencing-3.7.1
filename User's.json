@@ -397,5 +397,12 @@
         "password": "123",
         "expirydate": "10-06-2026",
         "Allowoffline": false
+    },,
+    {
+        "device_id": "632a57e6ce466e70",
+        "username": "Karan",
+        "password": "123",
+        "expirydate": "02-07-2026",
+        "Allowoffline": false
     }
 ]
